@@ -1,0 +1,5 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan file konfigurasi editor
+.vscode/
