@@ -1,0 +1,6 @@
+python -m venv venv                     <-- membuat folder venv
+
+
+PS D:\python.py\NumPy>            perintah 1-->        Set-ExecutionPolicy Unrestricted -Scope Process
+PS D:\python.py\NumPy>            perintah 2-->             venv\Scripts\Activate.ps1
+(venv) PS D:\python.py\NumPy>     ekseskusi -->              py example.py
